@@ -1,0 +1,45 @@
+Enter database filename: 
+Currently playing: 'Elvis Presley / Blue Suede Shoes / Elvis Presley: Legacy Edition'
+Next track to play: 'The Beatles / With A Little Help From My Friends / Sgt. Pepper's Lonely Hearts Club Band'
+[P]lay next track
+[A]dd a new track
+[Q]uit
+> 
+Currently playing: 'The Beatles / With A Little Help From My Friends / Sgt. Pepper's Lonely Hearts Club Band'
+Next track to play: 'The White Stripes / Seven Nation Army / Elephant'
+[P]lay next track
+[A]dd a new track
+[Q]uit
+> 
+Track name: Artist name: Album name: 
+Track: Look What You Made Me Do
+Artist: Taylor Swift
+Album: Reputation
+Are you sure you want to add this track [y/n]? 
+Currently playing: 'The Beatles / With A Little Help From My Friends / Sgt. Pepper's Lonely Hearts Club Band'
+Next track to play: 'The White Stripes / Seven Nation Army / Elephant'
+[P]lay next track
+[A]dd a new track
+[Q]uit
+> 
+Currently playing: 'The White Stripes / Seven Nation Army / Elephant'
+Next track to play: 'Cake / Long Line Of Cars / Comfort Eagle'
+[P]lay next track
+[A]dd a new track
+[Q]uit
+> 
+Currently playing: 'Cake / Long Line Of Cars / Comfort Eagle'
+Next track to play: 'Nine Inch Nails / Head Like A Hole / Pretty Hate Machine'
+[P]lay next track
+[A]dd a new track
+[Q]uit
+> 
+Currently playing: 'Nine Inch Nails / Head Like A Hole / Pretty Hate Machine'
+Next track to play: 'Taylor Swift / Look What You Made Me Do / Reputation'
+[P]lay next track
+[A]dd a new track
+[Q]uit
+> 
+Tracks remaining in play list
+------------------------------------------------------------
+1 - 'Taylor Swift / Look What You Made Me Do / Reputation'
