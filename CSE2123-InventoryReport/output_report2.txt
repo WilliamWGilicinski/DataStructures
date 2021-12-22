@@ -1,0 +1,14 @@
+Enter an inventory filename: Product Inventory Summary Report
+----------------------------------------------------------------------
+Product Name              I Code     Type Quant. Price  Rating # Rat.
+------------------------- ---------- ---- ------ ------ ------ ------
+Wonder Woman              C0000005   DVD     300  19.95    ***      4
+A Night At The Opera      C0001033   DVD     500   9.95    ***      3
+Guards Guards!            C0007847   Book    234  11.95   ****      4
+Watchmen                  C0002215   Book    178  24.95   ****      4
+Unreleased Video Game Pro CXXXXXXXX  Game      0   0.00             0
+----------------------------------------------------------------------
+Total products in database: 5
+Highest Average Ranked Item: Guards Guards! (****) 
+Lowest Average Ranked Item: Unreleased Video Game Project () 
+----------------------------------------------------------------------

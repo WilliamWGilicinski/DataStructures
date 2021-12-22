@@ -1,0 +1,15 @@
+Enter an inventory filename: Product Inventory Summary Report
+----------------------------------------------------------------------
+Product Name              I Code     Type Quant. Price  Rating # Rat.
+------------------------- ---------- ---- ------ ------ ------ ------
+The Shawshank Redemption  C0000001   DVD     100  19.95    ***      4
+The Dark Knight           C0000003   DVD      50  19.95    ***      3
+Casablanca                C0000007   DVD     137   9.95   ****      4
+The Girl With The Dragon  C0000015   Book    150  14.95    ***      3
+Vertigo                   C0000023   DVD      55   9.95   ****      6
+A Game of Thrones         C0000019   Book    100   8.95      *      1
+----------------------------------------------------------------------
+Total products in database: 6
+Highest Average Ranked Item: Casablanca (****) 
+Lowest Average Ranked Item: A Game of Thrones (*) 
+----------------------------------------------------------------------

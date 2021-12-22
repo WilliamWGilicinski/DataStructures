@@ -1,0 +1,11 @@
+Enter an expression (blank to quit): (3 - 2) = 1
+
+Enter an expression (blank to quit): (((5 * 4) / 6) + 19) = 22
+
+Enter an expression (blank to quit): ((-30 + (12 * 18)) - 3) = 183
+
+Enter an expression (blank to quit): (((15 % 5) * 3) + 11) = 11
+
+Enter an expression (blank to quit): (((15 / 5) * 3) + 11) = 20
+
+Enter an expression (blank to quit): Goodbye!
